@@ -16,3 +16,4 @@ print(my_set) #Булево значение True не выводится, во�
 my_set.update({'Кто здесь?', "O_o"})
 my_set.discard(8)
 print(my_set)
+
